@@ -1,0 +1,6 @@
+numpy>=1.26
+opencv-python-headless>=4.9
+scipy>=1.11
+
+# extract.py also needs: mcap, mcap-ros2-support
+# predict.py also needs: torch and the Depth Pro 2 package from its upstream repository

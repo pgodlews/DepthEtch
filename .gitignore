@@ -1,0 +1,46 @@
+# Model files: never commit weights or anything derived from them.
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.onnx.data
+*.onnx_data
+*.engine
+*.npz
+*.npy
+
+# Recordings and media
+*.mcap
+*.bag
+*.db3
+*.mp4
+*.mov
+*.webm
+*.gif
+*.jpg
+*.jpeg
+*.png
+
+# Working folders
+work/
+out/
+frames/
+build/
+cache/
+venv*/
+.venv/
+
+# Logs can contain machine-specific paths.
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Editors and OS
+.DS_Store
+.idea/
+.vscode/
