@@ -10,6 +10,8 @@ Colour shows metres, from red (near) to blue (far). Etched lines come from the i
 Vivid areas were measured by the depth camera. **Muted areas were filled in**, so estimated depth is
 never presented as measured depth.
 
+**[Watch the demo video](https://youtu.be/0YeOiIKhOVc)**
+
 This is an independent project. It is not affiliated with, endorsed by, or supported by Apple, Meta
 or Intel. It contains no model weights and no upstream source code.
 
