@@ -1,5 +1,11 @@
 # DepthEtch
 
+<p align="center">
+  <a href="https://youtu.be/0YeOiIKhOVc"><img src="https://img.youtube.com/vi/0YeOiIKhOVc/maxresdefault.jpg" alt="Watch the DepthEtch demo video on YouTube" width="100%"></a>
+  <br>
+  <a href="https://youtu.be/0YeOiIKhOVc"><strong>▶ Watch the demo on YouTube</strong></a>
+</p>
+
 A depth video that people can read at a glance. DepthEtch combines three sources:
 
 - a **depth camera** for real distances
@@ -9,8 +15,6 @@ A depth video that people can read at a glance. DepthEtch combines three sources
 Colour shows metres, from red (near) to blue (far). Etched lines come from the image and the model.
 Vivid areas were measured by the depth camera. **Muted areas were filled in**, so estimated depth is
 never presented as measured depth.
-
-**[Watch the demo video](https://youtu.be/0YeOiIKhOVc)**
 
 This is an independent project. It is not affiliated with, endorsed by, or supported by Apple, Meta
 or Intel. It contains no model weights and no upstream source code.
